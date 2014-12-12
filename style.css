@@ -1,8 +1,20 @@
 body {
 	font-size: 30px;
 	color: black;
-	background-color: black;
+	background-color: PeachPuff;
 }
 p {
-	color: yellow;
+	color: DarkRed;
+	font-family: arial, helvetica, serif;
+	margin: 20px;
+	padding: 40px;
+}
+h1 {
+	border-style: solid;
+	text-align: center;
+}
+.pullquote {
+	padding-left: 50px;
+	font-size: 1.5em;
+	background: SpringGreen;
 }
